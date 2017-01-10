@@ -5,6 +5,14 @@ GIT
     spree_paytm (1.0)
       spree_core (~> 3.0)
 
+GIT
+  remote: git://github.com/spree-contrib/spree_mail_settings.git
+  revision: e292a7e843e80ddf0337c68ed4093c702ee60f62
+  branch: 3-1-stable
+  specs:
+    spree_mail_settings (3.1.0)
+      spree_backend (~> 3.1.0.beta)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -346,6 +354,7 @@ DEPENDENCIES
   spree (~> 3.1.0.rc1)
   spree_auth_devise (~> 3.1.0.rc1)
   spree_gateway (~> 3.1.0.rc1)
+  spree_mail_settings!
   spree_paytm!
   spring
   therubyracer
