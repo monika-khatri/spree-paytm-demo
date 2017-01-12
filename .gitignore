@@ -15,6 +15,7 @@
 .loadpath
 .project
 .ruby-version
+.byebug_history
 #bin/*
 public/dispatch.cgi
 public/dispatch.fcgi
