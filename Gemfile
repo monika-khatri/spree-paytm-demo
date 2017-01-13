@@ -27,7 +27,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'spree', '~> 3.1.0.rc1'
 gem 'spree_auth_devise', '~> 3.1.0.rc1'
 gem 'spree_gateway', '~> 3.1.0.rc1'
-gem 'spree_paytm', github: 'monika-khatri/spree-paytm'
+gem 'spree_paytm'
 gem 'spree_mail_settings', github: 'spree-contrib/spree_mail_settings', branch: '3-1-stable'
 
 # Use ActiveModel has_secure_password
