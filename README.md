@@ -18,4 +18,4 @@ For live demo please [click here](http://spree-paytm-demo.herokuapp.com/)
 3. Edit database.yml file
 
 
-4. Follow steps 4 on words from spree_paytm [document](https://github.com/monika-khatri/spree-paytm)
+4. Follow steps 3 on words from spree_paytm [document](https://github.com/monika-khatri/spree-paytm)
